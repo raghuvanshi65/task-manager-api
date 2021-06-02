@@ -8,11 +8,10 @@ This node js application is a task manager api , the repository contains the cod
 * run script - **npm i** (*To save all the dependencies locally on your system*)
 * run the application - **npm start** 
 
+**Link to the postman resource** - <https://www.getpostman.com/collections/41d542e486dfe925cef6>
+This will help to get overview of how all the api's are working , contains a overhead documentation
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
